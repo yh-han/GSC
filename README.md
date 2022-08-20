@@ -24,7 +24,7 @@ If you use our code in your own research, please cite the following article:
   year={2022}
 }
 ```
-
+ 
 # Acknowledgements
 
 We thank the authors of [GRACE](https://github.com/CRIPAC-DIG/GRACE) and [GOT](https://github.com/LiqunChen0606/Graph-Optimal-Transport) for open sourcing their methods.
