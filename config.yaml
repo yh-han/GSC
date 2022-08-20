@@ -1,0 +1,12 @@
+Cora:
+  seed: 39788
+  learning_rate: 0.0001
+  num_hidden: 1024
+  num_proj_hidden: 1024
+  activation: 'relu'
+  base_model: 'GCNConv'
+  num: 300 
+  k1: 15 
+  tau: 5
+  num_epochs: 300
+  weight_decay: 0.00001
