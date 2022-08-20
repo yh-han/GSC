@@ -4,7 +4,7 @@ The PyTorch implementation of Generative Subgraph Contrast for Self-Supervised G
 Any questions please contact hanyh@njust.edu.cn.
 
 # Dependencies
-Install the dependencies using
+Install related dependencies using
 
 `pip install -r requirements.txt`
 
